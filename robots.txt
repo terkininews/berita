@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://terkininews.github.io/berita/sitemap.xml
